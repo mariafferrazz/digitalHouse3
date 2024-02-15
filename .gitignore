@@ -1,0 +1,7 @@
+node_modules
+yarn.lock
+pages
+**/css/trabalhe-conosco.css
+.DS_Store
+_add
+teste-generator
